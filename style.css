@@ -12,3 +12,11 @@
 .ui.centered.image {
   margin-top: 50px;
 }
+
+#splash {
+  width: 100%;
+}
+
+.footer-background {
+  padding-top: 20px;
+}
